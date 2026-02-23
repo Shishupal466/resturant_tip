@@ -1,8 +1,0 @@
-joblib
-Streamlit
-Pandas
-Numpy
-Seaborn
-scipy
-flask
-scikit-learn
